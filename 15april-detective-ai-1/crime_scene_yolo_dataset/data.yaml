@@ -1,0 +1,8 @@
+names:
+- bloodied_knife
+- broken_window
+- overturned_chair
+- blood_on_bed
+path: /mnt/data/crime_scene_yolo_dataset
+train: images/train
+val: images/val
